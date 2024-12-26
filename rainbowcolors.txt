@@ -3,3 +3,4 @@ red
 purple
 yellow
 green
+indigo
